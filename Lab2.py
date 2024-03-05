@@ -10,6 +10,11 @@ class Pisica(Animal):
 animal=Animal()
 animal.mananca()
 
+animale=["caine", "iepure","leu","tigru","lup"]
+pisici=["Sfinx","Siameza"]
+print("Animalele din lista sunt:", animale)
+print("Pisicile din lista sunt:", pisici)
+
 
 
 
